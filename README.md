@@ -67,14 +67,3 @@ Para cada función del backend se debe diseñar una prueba unitaria que incluya:
 *   **Criterios de aceptación:** Definir los resultados esperados. Por ejemplo, que una función retorne un hash map con una clave "status" igual a "ok" y que incluya un identificador numérico.
 *   **Umbral mínimo de aprobación:** Se considera que una prueba está aprobada cuando al menos el 90% de sus ejecuciones son exitosas.
 
-## 5. Formato de Entrega
-
-Finalizado el taller, se deberá presentar un informe con las siguientes secciones:
-
-*   Introducción
-*   Objetivos
-*   Metodología
-*   Resultados
-*   Bibliografía
-
-Además, el código fuente del taller se subirá a un repositorio público de GitHub junto con el archivo `sonar-project.properties` con la definición del análisis de SonarQube.
